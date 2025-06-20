@@ -18,7 +18,6 @@ This project replicates the core UI and functionality of Spotify including navig
 
 ## 🖼️ Screenshots
 
-> Add your screenshots in the `assets` or `public` folder and reference them below:
 
 ### 🏠 Home Page
 ![Home](./assets/home.png)
